@@ -1,11 +1,12 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", sans-serif
+  font-color: black;
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Torres_del_Paine_from_Lake_Peho%C3%A9.jpg/1280px-Torres_del_Paine_from_Lake_Peho%C3%A9.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -32,8 +33,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
